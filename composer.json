@@ -1,0 +1,17 @@
+{
+    "name": "maycon/php-crawler",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Maycon Brito",
+            "email": "mayconfsbrito@gmail.com"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^3.2",
+        "phpunit/phpunit": "*",
+        "guzzlehttp/guzzle": "^6.3",
+        "sunra/php-simple-html-dom-parser": "^1.5",
+        "spatie/crawler": "^4.6"
+    }
+}
